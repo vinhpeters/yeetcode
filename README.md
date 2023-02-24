@@ -1,6 +1,7 @@
 # yeetcode
-A repo of leetcode type coding problems to collabrate and provide feedback on solutions.
 
+### A repo of leetcode type coding problems to collabrate and provide feedback on solutions.    
+A![](yeet.png)
 ## Instructions:
 - Each problem has its own directory with the problem statement in a markdown file.   
 - You can post your solution in the directory with the correspondnig language.   
