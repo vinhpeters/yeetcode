@@ -1,4 +1,12 @@
-/* Use 2 pointers and keep running total of the max area */
+/* Solution by Vinh
+ Use 2 pointers and keep running total of the max area 
+
+ Running time: O(n)
+ Space complexitiy O(1)
+
+Comments: 
+
+*/
 
 const maxArea = (height) => {
     let left = 0;
