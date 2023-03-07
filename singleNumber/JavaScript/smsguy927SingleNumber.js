@@ -1,8 +1,8 @@
 function findSingleNumber(nums) {
 
     const intTotals = []
-    const intTotalsSize = 625
-    const intTotalsOffset = 312
+    const intTotalsSize = 60001
+    const intTotalsOffset = 30000
     for (let i = 0; i < intTotalsSize; i++) {
         intTotals.push(0)
     }
@@ -31,5 +31,3 @@ console.log(findSingleNumber(arr5))
 console.log(findSingleNumber(arr6))
 console.log(findSingleNumber(arr7))
 console.log(findSingleNumber(arr8))
-//
-//
