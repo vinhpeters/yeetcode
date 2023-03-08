@@ -1,0 +1,3 @@
+[submodule "climbStairs/rust"]
+	path = climbStairs/rust
+	url = https://github.com/Shariffintech/yeetcode.git
