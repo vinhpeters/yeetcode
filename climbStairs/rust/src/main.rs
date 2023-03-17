@@ -1,5 +1,7 @@
 fn main() {
-    climb_stairs(2);
+    let n = 2;
+    let distinct_ways = climb_stairs(n);
+    println!("There are {} distinct ways to climb {} steps.", distinct_ways, n);
 }
 
 
